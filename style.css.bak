@@ -1,0 +1,21 @@
+/* Projects Section */
+#projects {
+    background: #f9f9f9;
+}
+
+.project-item {
+    margin-bottom: 30px;
+}
+
+.project-item h3 {
+    color: #3498db;
+    margin-bottom: 10px;
+}
+
+.project-item ul {
+    margin-left: 20px;
+}
+
+.project-item li {
+    margin-bottom: 10px;
+}
